@@ -783,3 +783,8 @@ body
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+.end a
+{
+    color: blue;
+    text-decoration: none;
+}
