@@ -662,6 +662,7 @@ body
     .navigation nav
     {
         width: 37.5%;
+        padding-top: 10px;
     }
     #biography
     {
