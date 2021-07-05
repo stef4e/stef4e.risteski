@@ -392,11 +392,13 @@ body
     .image
     {
         width: 23%;
+        margin-top: 15%;
     }
     #biography
     {
         width: 50%;
         padding-right: 8%;
+        margin-top: 12%;
     }
     #skills
     {
@@ -421,11 +423,11 @@ body
     }
     #second
     {
-        margin-bottom: 8%;
+        margin-bottom: 11%;
     }
     #third
     {
-        margin-bottom: -6%;
+        margin-bottom: -3%;
     }
     .ct
     {
